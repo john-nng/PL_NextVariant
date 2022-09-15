@@ -4,7 +4,7 @@ PrairieLearn is an online problem-driven learning system for creating homeworks 
 
 ## Next Variant Features
 
-UC Berkeley Professor Dan Garcia wanted to expand upon PrairieLearn Next Variant features for his classes. Mainly to have a "Previous Variant" feature along with the existing "Next Variant" feature. As well as having a "Go to Variant:" feature. This would allow for better question testing as the user would not need to rely on randomness to get to the desired variant.
+UC Berkeley Professor Dan Garcia wanted to expand upon PrairieLearn Next Variant features for his classes. Mainly to have a "Previous Variant" feature along with the existing "Next Variant" feature. As well as having a "Go to Variant:" feature. This would allow for better question testing as the user would not need to rely on randomness to get to the desired variant. Similar for students, they wouldnt have to rely on randomness to get a different variant of their question.
 
 These features are not applied to all questions, but there are questions such as QID: addNumbers, where you can test these features.
 
